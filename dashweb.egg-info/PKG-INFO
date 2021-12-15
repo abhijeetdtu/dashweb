@@ -1,0 +1,11 @@
+Metadata-Version: 1.0
+Name: dashweb
+Version: 0.0.1
+Summary: A package that combines Dash and Plotnine to build interactive visualization apps
+Home-page: http://pypi.python.org/pypi/PackageName/
+Author: meekagin
+Author-email: aac@example.com
+License: LICENSE.txt
+Description: docker run --name indianmediadb -v $ /c/Users/Abhijeet/Documents/GitHub/indianmedia/IndianMedia/data:/data/db -d mongo
+        
+Platform: UNKNOWN
